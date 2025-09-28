@@ -1,0 +1,23 @@
+{
+  "name": "5-proyectos-con-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rivas117/5-Proyectos-con-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rivas117/5-Proyectos-con-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Rivas117/5-Proyectos-con-JavaScript#readme",
+  "devDependencies": {
+    "sass": "^1.93.2"
+  }
+}
